@@ -21,6 +21,13 @@ header h1 {
     font-size: 24px;
 }
 
+.subtitulo {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+    color: #f4f4f4;
+}
+
 /* Menu responsivo */
 nav ul {
     list-style: none;
